@@ -73,7 +73,7 @@ const Portfolio = () => {
           className="bg-white shadow-xl rounded-2xl p-8 flex items-center space-x-8"
         >
           <img 
-            src="https://imgur.com/a/WSxuisv" 
+            src="https://imgur.com/Du3Uro6" 
             alt="Joel Lim Jun Xuan" 
             className="w-40 h-40 rounded-full object-cover border-4 border-blue-400 shadow-lg"
           />
