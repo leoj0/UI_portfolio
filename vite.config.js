@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss()
   ],
-  base: '/<UI_portfolio>/', 
+  base: '/UI_portfolio/', 
 })

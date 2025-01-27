@@ -73,13 +73,13 @@ const Portfolio = () => {
           className="bg-white shadow-xl rounded-2xl p-8 flex items-center space-x-8"
         >
           <img 
-            src="/src/assets/sabahnet.jpg" 
+            src="/sabahnet.jpg" 
             alt="Joel Lim Jun Xuan" 
             className="w-40 h-40 rounded-full object-cover border-4 border-blue-400 shadow-lg"
           />
           <div>
             <h1 className="text-4xl font-bold text-gray-800 mb-2">Joel Lim Jun Xuan</h1>
-            <p className="text-gray-600 text-lg">Computer Science (Network Engineering) | Web Developer & UI/UX Designer</p>
+            <p className="text-gray-600 text-lg">Computer Science (Network Engineering) | Interested in Web Development </p>
           </div>
         </motion.header>
 
